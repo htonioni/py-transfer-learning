@@ -30,4 +30,4 @@ Já o dataset para download pode ser acessado por meio deste outro [link](https:
 
 # Certificado
 
-[img]()
+![img](https://github.com/htonioni/py-transfer-learning/blob/main/Certificado/certificado.png)
