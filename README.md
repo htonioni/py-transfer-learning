@@ -1,6 +1,6 @@
 # Desafio de Projeto da [DIO](https://www.dio.me/) - Explorando Dados Demográficos com Serviços de Big Data na AWS
 
-#### Projeto proposto no Bootcamp [Geração Tech Unimed-BH - Ciência de Dados](https://www.dio.me/bootcamp/geracao-tech-unimed-bh-ciencia-de-dados?ref=CG-bootcamp-unimed-bh-ciencia-de-dados) na plataforma DIO
+#### Projeto proposto no Bootcamp [Geração Tech Unimed-BH - Ciência de Dados](https://www.dio.me/bootcamp/geracao-tech-unimed-bh-ciencia-de-dados?ref=CG-bootcamp-unimed-bh-ciencia-de-dados) na plataforma de ensino DIO.
 
 ## DESCRIÇÃO
 
